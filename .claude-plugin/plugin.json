@@ -1,0 +1,1 @@
+{ "name": "compact-instructions", "version": "0.1.0", "description": "Appends the standing compaction rules to the summarizer's instructions on every main-conversation compaction" }
