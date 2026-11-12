@@ -1,4 +1,4 @@
-# compact-instructions
+# claude-compact-instructions
 
 A Claude Code mod that appends standing rules to the summarizer's instructions on every main-conversation compaction, `/compact` and auto-compact alike.
 
